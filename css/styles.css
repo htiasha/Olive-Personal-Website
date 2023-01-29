@@ -1,0 +1,84 @@
+h1{
+  font-size: 4rem;
+  padding:50px 0px;
+  font-weight: bolder;
+
+}
+h3{
+  padding-bottom: 20px;
+  font-size: 2rem;
+}
+.top-hr{
+  border:dotted #658864 6px;
+  border-bottom: none;
+  width:5%;
+  margin: 100px auto;
+}
+.top-container{
+  padding: 15% 15%;
+  text-align: center;
+  background-color: #EEEEEE;
+  color: #658864;
+  font-family: "Work Sans";
+}
+.des{
+  font-size: 10rem;
+}
+.title-img{
+  width:90%;
+
+  padding-left:10%;
+
+}
+
+
+.reach-out{
+  text-decoration: none;
+  color: #658864;
+}
+.middle-container{
+  padding-top: 50px;
+}
+#skills{
+
+  text-align: left;
+  padding-left: 80px;
+  background-color: #658864;
+  color:#EEEEEE ;
+  font-family: "Work Sans";
+}
+#mid-img{
+  width:90%;
+  height: auto;
+  padding:50px 50px;
+
+}
+#courses{
+  background-color:#EEEEEE;
+  color: #658864;
+  text-align: center;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+.course-img{
+  width: 70%;
+}
+
+#footer{
+  text-align: center;
+  background-color: #425F57;
+  color: #EEEEEE;
+  padding: 5% 5%;
+}
+.copyright{
+  padding-top:2%;
+  color:#BAD1C2;
+}
+.link-button{
+  text-decoration: none;
+  margin: 20px 10px;
+  color:#BAD1C2;
+}
